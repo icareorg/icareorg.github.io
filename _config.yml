@@ -32,10 +32,10 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "/assets/img/Asset 13.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-round-avatar: true
+round-avatar: false
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
@@ -51,12 +51,12 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "someone@example.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: "@daattali"
+  rss: false  # remove this line if you don't want to show an RSS link at the bottom
+  facebook: ICare
+  github: ICare
+  twitter: @ICare
+# patreon: Icare
+  youtube: "ICare"
   whatsapp: 15551212
 #  medium: yourname
 #  reddit: yourname
@@ -136,9 +136,9 @@ navbar-var-length: false
 
 page-col: "#FFFFFF"
 text-col: "#404040"
-link-col: "#008AFF"
+link-col: "#FFFFFF"
 hover-col: "#0085A1"
-navbar-col: "#EAEAEA"
+navbar-col: "#4445ea"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
 footer-col: "#EAEAEA"
